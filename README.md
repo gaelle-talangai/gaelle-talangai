@@ -1,5 +1,5 @@
  
-<h1>Hi there, ny name is Gaëlle and I'm an aspiring <a href="https://www.linkedin.com/in/ga%C3%ABlle-tala-nga%C3%AF-38b256133/">IT Professional</a>☺</h1>
+<h1>Hi there, my name is Gaëlle and I'm an aspiring <a href="https://www.linkedin.com/in/ga%C3%ABlle-tala-nga%C3%AF-38b256133/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
