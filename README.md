@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, my name is Gaëlle and I'm an aspiring IT professional. 
 
 <!--
 **gaelle-talangai/gaelle-talangai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
